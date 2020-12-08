@@ -1,0 +1,100 @@
+04-23-2020 18:23:48.974 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+04-23-2020 18:23:57.702 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+04-24-2020 18:24:05.806 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+04-24-2020 18:24:08.927 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+04-27-2020 18:27:34.063 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+04-27-2020 18:27:40.264 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+04-27-2020 18:27:48.389 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+04-27-2020 18:27:51.552 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+04-29-2020 18:29:09.575 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+04-29-2020 18:29:14.278 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+04-29-2020 18:29:22.394 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+04-29-2020 18:29:25.502 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+04-29-2020 18:29:46.761 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+07-04-2020 15:04:23.443 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-04-2020 15:04:31.142 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-04-2020 15:04:39.269 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+07-04-2020 15:04:42.363 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-05-2020 15:05:20.495 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-05-2020 15:05:24.657 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-05-2020 15:05:32.853 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+07-05-2020 15:05:36.008 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-05-2020 15:05:56.824 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+07-31-2020 15:31:52.635 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-32-2020 15:32:20.416 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-32-2020 15:32:46.491 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+07-32-2020 15:32:49.655 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-35-2020 15:35:07.230 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-35-2020 15:35:24.224 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-35-2020 15:35:39.492 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-39-2020 15:39:51.356 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-39-2020 15:39:56.586 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-40-2020 15:40:07.915 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-40-2020 15:40:28.995 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+07-45-2020 15:45:53.012 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-46-2020 15:46:04.606 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-46-2020 15:46:31.667 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-48-2020 15:48:57.125 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-49-2020 15:49:18.295 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-49-2020 15:49:38.105 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-16-2020 16:16:32.114 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+07-16-2020 16:16:38.349 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+07-16-2020 16:16:56.416 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+07-17-2020 16:17:16.931 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+08-56-2020 11:56:12.953 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-56-2020 11:56:18.028 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-56-2020 11:56:48.088 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-01-2020 12:01:19.873 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-01-2020 12:01:24.395 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-04-2020 12:04:18.698 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-04-2020 12:04:24.412 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-04-2020 12:04:37.747 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-05-2020 12:05:24.180 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-05-2020 12:05:28.546 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-05-2020 12:05:50.388 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+08-05-2020 12:05:53.697 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-06-2020 12:06:14.291 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+08-12-2020 15:12:53.228 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-12-2020 15:12:57.637 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-13-2020 15:13:33.656 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-13-2020 15:13:37.941 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-13-2020 15:13:59.678 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+08-14-2020 15:14:02.785 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-14-2020 15:14:28.367 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+08-41-2020 16:41:13.758 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-41-2020 16:41:19.209 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-43-2020 16:43:17.470 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-43-2020 16:43:22.818 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-43-2020 16:43:36.233 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-44-2020 16:44:00.162 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-44-2020 16:44:05.825 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-44-2020 16:44:25.796 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+08-44-2020 16:44:29.044 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-47-2020 16:47:55.271 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-48-2020 16:48:00.441 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-48-2020 16:48:54.418 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-48-2020 16:48:59.003 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-49-2020 16:49:19.228 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+08-49-2020 16:49:22.452 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-50-2020 16:50:17.802 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-50-2020 16:50:23.286 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-51-2020 16:51:21.211 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-51-2020 16:51:35.568 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-52-2020 16:52:35.741 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-52-2020 16:52:41.729 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-53-2020 16:53:58.226 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-54-2020 16:54:03.021 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-55-2020 16:55:17.149 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+08-55-2020 16:55:35.324 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-55-2020 16:55:39.789 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-56-2020 16:56:32.805 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-56-2020 16:56:38.560 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-57-2020 16:57:48.283 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-57-2020 16:57:52.688 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-59-2020 16:59:02.472 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-59-2020 16:59:07.782 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-59-2020 16:59:56.234 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-00-2020 17:00:00.463 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-00-2020 17:00:24.315 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+08-00-2020 17:00:46.074 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-01-2020 17:01:05.228 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
