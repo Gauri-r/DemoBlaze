@@ -98,3 +98,9 @@
 08-00-2020 17:00:24.315 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
 08-00-2020 17:00:46.074 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
 08-01-2020 17:01:05.228 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Phone Successful
+08-32-2020 18:32:36.353 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-32-2020 18:32:43.256 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
+08-33-2020 18:33:07.096 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Laptop Successful
+08-33-2020 18:33:28.989 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Purchase of Monitor Successful
+08-35-2020 18:35:40.256 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Chrome Browser Started successfully
+08-35-2020 18:35:48.492 [main] INFO  com.DemoBlazeTest.TestCases.BaseClass - Login to Demoblaze is Successful
